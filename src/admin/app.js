@@ -1,5 +1,5 @@
 import AuthLogo from "./extensions/logo.png";
-import MenuLogo from "./extensions/logo.png";
+import MenuLogo from "./extensions/icon.png";
 
 export default {
   config: {
