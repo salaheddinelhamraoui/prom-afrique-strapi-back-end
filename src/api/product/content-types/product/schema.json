@@ -44,6 +44,9 @@
     },
     "prix": {
       "type": "integer"
+    },
+    "small_description": {
+      "type": "text"
     }
   }
 }
